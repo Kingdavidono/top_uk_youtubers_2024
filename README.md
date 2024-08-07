@@ -315,7 +315,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 ### Output
-![Data type check](assets/images/3_data_type_check.png)
+![Data type check](assets/images/data_type_check.PNG)
 
 
 ## Duplicate count check

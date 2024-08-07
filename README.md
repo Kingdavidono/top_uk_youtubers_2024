@@ -274,7 +274,7 @@ FROM
     view_uk_youtubers_2024;
 ```
 
-![Row count check](assets/images/1_row_count_check.png)
+![Row count check](assets/images/row_count_check.PNG)
 
 
 
@@ -294,7 +294,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 ### Output 
-![Column count check](assets/images/2_column_count_check.png)
+![Column count check](assets/images/column_count_check.PNG)
 
 
 

@@ -352,7 +352,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+![Power BI Dashboard](assets/images/top_uk_youtubers_2024.jpeg)
 
 This shows the Top UK Youtubers in 2024 so far. 
 
@@ -514,7 +514,7 @@ Here are the key questions we need to answer for our marketing client:
 
 ### Notes
 
-For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels wuth the most 
+For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels with the most 
 
 - subscribers
 - total views

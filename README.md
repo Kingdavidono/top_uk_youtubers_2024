@@ -703,9 +703,7 @@ ORDER BY
     net_profit DESC;
 ```
 
-#### Output
 
-![Most videos](assets/images/youtubers_with_the_most_videos.jpeg)
 
 
 ### 3.  Youtubers with the most views 
@@ -798,9 +796,7 @@ ORDER BY
 
 ```
 
-#### Output
 
-![Most views](assets/images/youtubers_with_the_most_views.jpeg)
 
 
 
